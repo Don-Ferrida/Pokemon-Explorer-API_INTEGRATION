@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Pokémon Explorer</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1>🔍 Pokémon Explorer</h1>
+    <p>Search for a Pokémon or click a card to learn more!</p>
+
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="e.g., pikachu, Vulpix, Emolga" />
+        <button onclick="searchPokemon()">Search</button>
+    </div>
+
+    <div id="resultContainer" class="result-container"></div>
+
+    <h2>Featured Pokémon</h2>
+    <div class="featured-container">
+        <div class="poke-card" onclick="loadPokemon('pikachu')">Pikachu</div>
+        <div class="poke-card" onclick="loadPokemon('charizard')">Charizard</div>
+        <div class="poke-card" onclick="loadPokemon('bulbasaur')">Bulbasaur</div>
+        <div class="poke-card" onclick="loadPokemon('eevee')">Eevee</div>
+        <div class="poke-card" onclick="loadPokemon('snorlax')">Snorlax</div>
+        <div class="poke-card" onclick="loadPokemon('gengar')">Gengar</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
