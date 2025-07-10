@@ -68,15 +68,15 @@ All content is updated dynamically on the page without refreshing, making the ex
 
 ## Screenshots
 
-![Home](screenshots/screenshot1.png)
+![Home](screenshot/screenshot1.png)
 
-![Details](screenshots/screenshot2.png)
+![Details](screenshot/screenshot2.png)
 
-![Details](screenshots/screenshot3.png)
+![Details](screenshot/screenshot3.png)
 
-![Details](screenshots/screenshot4.png)
+![Details](screenshot/screenshot4.png)
 
-![Details](screenshots/screenshot5.png)
+![Details](screenshot/screenshot5.png)
 
 ---
 
