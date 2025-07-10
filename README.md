@@ -68,15 +68,15 @@ All content is updated dynamically on the page without refreshing, making the ex
 
 ## Screenshots
 
-![Home](screenshot/screenshot1.png)
+![img](https://github.com/user-attachments/assets/04b7ff99-38f3-4451-a583-4570a5507afa)
 
-![Details](screenshot/screenshot2.png)
+![img](https://github.com/user-attachments/assets/102973a3-b52c-4948-904d-0a752dabfab7)
 
-![Details](screenshot/screenshot3.png)
+![img](https://github.com/user-attachments/assets/d08e6bc7-07d4-4a2d-aae5-fc42ec821ce0)
 
-![Details](screenshot/screenshot4.png)
+![img](https://github.com/user-attachments/assets/49d31428-a38b-4053-9776-36609edea187)
 
-![Details](screenshot/screenshot5.png)
+![img](https://github.com/user-attachments/assets/7cd6798e-aeaa-47d2-95f4-9df62675d141)
 
 ---
 
